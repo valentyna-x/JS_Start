@@ -5,18 +5,20 @@
 
 html, body {
   min-height: 100vh;
-  background: linear-gradient(#9cb6eb, #3e4c66);
+  background: linear-gradient(#fff, #191f2a);
   font-size: 16px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header {
-  padding: 0 calc(50vw - 240px);
+  padding: 0 calc(50vw - 360px);
   border: 1px solid #3e4c66;
+  text-align: center;
+  color: #270606;
 }
 .header__title {
   margin-bottom: 10px;
   font-size: 30px;
   font-weight: normal;
-  color: #0a0d12;
+  color: #270606;
 }
