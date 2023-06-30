@@ -14,8 +14,8 @@ console.log(country);
 let studentname = 'Valentyna Khyzhniak';
 console.log(studentname);
 
-let bestTeacherEver = 'Ivan Vasylenko';
-console.log(bestTeacherEver);
+let teachername = 'Best Teacher Ever - Ivan Vasylenko';
+console.log(teachername);
 
 
 
